@@ -2,7 +2,7 @@
 set NAME=AI-Course-Fundamentals
 title %NAME%
 color 0A
-set url=https://github.com/Wind-Kyle/ai-course-fundamentals/
+set url=https://github.com/Wind-Kyle/ai-course-fundamentals
 set branch=origin/master
 
 goto fetch
@@ -32,6 +32,6 @@ echo Please check the issue, before report it.
 echo :: %url% ::
 echo.
 set /P menu=Do you want to go to the Issues page? (y/n):
-if "%menu%"=="y" start https://github.com/Wind-Kyle/ai-course-fundamentals/issues/
+if "%menu%"=="y" start %url%/issues/
 if "%menu%"=="n" echo Good Bye!
 pause
