@@ -1,9 +1,9 @@
-<h1 text-align='center'>IPA 주관 AI 이노베이션 스퀘어 기본과정: 파이썬(Python)</h1>
+<h1 text-align='center'>IPA 주관 AI 이노베이션 스퀘어 기본과정: 데이터 분석 및 기계학습</h1>
 
 - [GitHub Blog 페이지로 이동](https://wind-kyle.github.io/AI-Course-Fundamentals/)
 - [노트 필기 페이지로 이동](https://wind-kyle.github.io/AI-Course-Fundamentals/notes/)
 
-데이터 분석 및 기계학습 기본과정입니다.
+Pandas & Scikit-Learn을 활용한 데이터 분석 및 기계학습 기본과정입니다.
 
 자료는 정리가 끝나면 html 파일과 pdf 파일로 변환하여 업로드됩니다.
 
@@ -48,10 +48,10 @@ git clone https://github.com/Wind-Kyle/AI-Course-Fundamentals.git
 - surprise
 - statsmodels
 
-# 5. 프로젝트 - 기계학습 활용
+## 5. 프로젝트 - 기계학습 활용
 - kaggle 활용
 
-# 6. 딥러닝 기초 
+## 6. 딥러닝 기초 
 - DNN
 - CNN
 - RNN
