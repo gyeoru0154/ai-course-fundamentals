@@ -1,5 +1,6 @@
 <h1 text-align='center'>IPA 주관 AI 이노베이션 스퀘어 기본과정: 데이터 분석 및 기계학습</h1>
 
+- [Python 기본 과정 페이지로 이동](https://wind-kyle.github.io/python-fundamentals/)
 - [GitHub Blog 페이지로 이동](https://wind-kyle.github.io/AI-Course-Fundamentals/)
 - [노트 필기 페이지로 이동](https://wind-kyle.github.io/AI-Course-Fundamentals/notes/)
 
