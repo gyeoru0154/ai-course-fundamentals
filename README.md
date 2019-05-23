@@ -60,7 +60,7 @@ git clone https://github.com/Wind-Kyle/ai-course-fundamentals.git
 ---
 
 ## 문의사항
-- issues page: https://github.com/Wind-Kyle/AI-Course-Fundamentals/issues
+- issues page: https://github.com/Wind-Kyle/ai-course-fundamentals/issues
 - e-mail: windkyle7@gmail.com
 <ul>
   <li>AI 이노베이션 스퀘어 홈페이지: https://ai.koipa.or.kr/</li>
