@@ -5,11 +5,10 @@
 - [Python 기본 과정 페이지로 이동](https://wind-kyle.github.io/python-fundamentals/)
 - [노트 필기 페이지로 이동](https://wind-kyle.github.io/ai-course-fundamentals/notes/)
 
-Pandas & Scikit-Learn을 활용한 데이터 분석 및 기계학습 기본과정입니다.
 
-자료는 정리가 끝나면 html 파일과 pdf 파일로 변환하여 업로드됩니다.
-
-`업데이트.bat` 파일을 실행하면 새로운 파일이 업로드 될 때마다 자동으로 업데이트합니다.
+<b>Pandas & Scikit-Learn</b>을 활용한 데이터 분석 및 기계학습 기본과정입니다.<br/>
+자료는 정리가 끝나면 html 파일과 pdf 파일로 변환하여 업로드됩니다.<br/>
+`업데이트.bat` 파일을 실행하면 새로운 파일이 업로드 될 때마다 자동으로 업데이트합니다.<br/>
 
 
 <div align="center">
