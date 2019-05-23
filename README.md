@@ -1,7 +1,6 @@
-<h1 text-align='center'>IPA 주관 AI 이노베이션 스퀘어 기본과정: 데이터 분석 및 기계학습</h1>
+# [IPA 주관 AI 이노베이션 스퀘어 기본과정: 데이터 분석 및 기계학습](https://wind-kyle.github.io/ai-course-fundamentals/)
 
 - [Python 기본 과정 페이지로 이동](https://wind-kyle.github.io/python-fundamentals/)
-- [GitHub Blog 페이지로 이동](https://wind-kyle.github.io/ai-course-fundamentals/)
 - [노트 필기 페이지로 이동](https://wind-kyle.github.io/ai-course-fundamentals/notes/)
 
 Pandas & Scikit-Learn을 활용한 데이터 분석 및 기계학습 기본과정입니다.
